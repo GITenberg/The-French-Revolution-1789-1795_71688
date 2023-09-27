@@ -1,0 +1,26 @@
+_repo: The-French-Revolution-1789-1795_71688
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gardiner, Bertha Meriton Cordery
+    gutenberg_agent_id: '56332'
+    url: http://www.gutenberg.org/2009/agents/56332
+description: ''
+gutenberg_issued: '2023-09-19'
+identifiers:
+  gutenberg: '71688'
+language: en
+pgterms:marc904: https://archive.org/details/frenchrevolution00gard
+pgterms:marc905: 20230422143210gardiner
+pgterms:marc906: '1921'
+pgterms:marc907: En
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bLongmans, Green, and Co., $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The French Revolution 1789-1795
+url: http://www.gutenberg.org/ebooks/71688
