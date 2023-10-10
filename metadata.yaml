@@ -1,11 +1,16 @@
 _repo: The-French-Revolution-1789-1795_71688
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71688-h/images/cover.jpg
 creator:
   author:
     agent_name: Gardiner, Bertha Meriton Cordery
     gutenberg_agent_id: '56332'
     url: http://www.gutenberg.org/2009/agents/56332
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71688#The-French-Revolution-1789-1795
 gutenberg_issued: '2023-09-19'
 identifiers:
   gutenberg: '71688'
